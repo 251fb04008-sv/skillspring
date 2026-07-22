@@ -1,0 +1,1 @@
+var builder=WebApplication.CreateBuilder(args);var app=builder.Build();app.MapGet("/orders",()=>new[]{1,2});app.Run();
