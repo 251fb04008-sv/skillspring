@@ -1,0 +1,1 @@
+SELECT *,AVG(Salary) OVER() AvgSalary FROM Employees;

@@ -1,0 +1,1 @@
+SELECT ROW_NUMBER() OVER(ORDER BY Salary) RN,* FROM Employees;
