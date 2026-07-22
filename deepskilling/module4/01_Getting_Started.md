@@ -1,0 +1,1 @@
+Automated testing, benefits, test pyramid, TDD notes.
