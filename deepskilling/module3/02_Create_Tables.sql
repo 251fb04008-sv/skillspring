@@ -1,0 +1,1 @@
+CREATE TABLE Employees(Id INT PRIMARY KEY, Name VARCHAR(50), Dept VARCHAR(30), Salary INT);
