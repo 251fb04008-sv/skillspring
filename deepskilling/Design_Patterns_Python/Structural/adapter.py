@@ -1,1 +1,0 @@
-print('Adapter example')

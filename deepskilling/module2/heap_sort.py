@@ -1,1 +1,0 @@
-print('Heap sort example')

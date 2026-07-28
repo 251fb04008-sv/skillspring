@@ -1,1 +1,0 @@
-print('Dependency Injection example')

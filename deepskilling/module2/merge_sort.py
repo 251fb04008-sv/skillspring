@@ -1,1 +1,0 @@
-print('Merge sort example')

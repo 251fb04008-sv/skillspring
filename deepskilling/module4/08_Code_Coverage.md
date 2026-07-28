@@ -1,1 +1,0 @@
-Use Visual Studio code coverage or coverlet.

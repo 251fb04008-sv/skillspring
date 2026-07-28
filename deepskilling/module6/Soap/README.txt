@@ -1,1 +1,0 @@
-SOAP/WCF notes.

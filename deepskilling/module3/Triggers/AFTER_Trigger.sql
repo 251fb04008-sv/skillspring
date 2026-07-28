@@ -1,1 +1,0 @@
-CREATE TRIGGER trg ON Employees AFTER INSERT AS PRINT 'Inserted';

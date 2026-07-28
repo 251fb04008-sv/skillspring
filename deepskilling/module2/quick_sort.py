@@ -1,1 +1,0 @@
-print('Quick sort example')

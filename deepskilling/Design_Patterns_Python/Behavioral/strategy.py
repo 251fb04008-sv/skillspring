@@ -1,1 +1,0 @@
-print('Strategy example')

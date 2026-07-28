@@ -1,1 +1,0 @@
-using Microsoft.AspNetCore.Mvc;[ApiController][Route("api/[controller]")] public class ProductsController:ControllerBase{[HttpGet] public IActionResult Get()=>Ok(new[]{"P1","P2"});}

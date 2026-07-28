@@ -1,1 +1,0 @@
-CREATE CLUSTERED INDEX IX_Emp_Id ON Employees(Id);
